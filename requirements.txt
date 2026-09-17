@@ -19,3 +19,5 @@ pdfplumber
 reportlab
 pyarrow
 tabulate
+numpy
+pyreadstat
