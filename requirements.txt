@@ -12,4 +12,3 @@ streamlit-geolocation==0.0.9
 qrcode[pil]==7.4.2 
 pyzbar==0.1.9      
 Pillow==10.4.0
-opencv-python-headless==4.10.0 
