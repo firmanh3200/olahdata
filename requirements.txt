@@ -12,3 +12,10 @@ streamlit-geolocation==0.0.9
 qrcode[pil]==7.4.2 
 pyzbar==0.1.9
 geopandas
+xlrd
+xlwt
+dbfread
+pdfplumber
+reportlab
+pyarrow
+tabulate
