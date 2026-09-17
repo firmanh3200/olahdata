@@ -11,3 +11,4 @@ google-auth==2.31.0
 streamlit-geolocation==0.0.9
 qrcode[pil]==7.4.2 
 pyzbar==0.1.9
+geopandas
