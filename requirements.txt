@@ -21,4 +21,4 @@ pyarrow
 tabulate
 numpy
 pyreadstat
-sklearn
+scikit-learn
