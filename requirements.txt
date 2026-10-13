@@ -22,3 +22,4 @@ tabulate
 numpy
 pyreadstat
 scikit-learn
+factor_analyzer
